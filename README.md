@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 👯 Estou procurando colaborar em Grupo
 - 🤔 Estou procurando ajuda com Pessoas que saibam de Progamação
 - 💬 Pergunte-me sobre Progamação
-- 📫 Como entrar em contato comigo: enzo.pires@escola.pr.gov.br 
 - ⚡ Curiosidade: Que estou aprendendo a mexer no GitHub.
